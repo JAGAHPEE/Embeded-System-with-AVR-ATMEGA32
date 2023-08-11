@@ -12,3 +12,4 @@ ATMEGA32 Codes with INterfacing like Switch, relay, LCD.
   8. Serial Communication
 ## Mini Projects
   1. Black Line follower
+  2. Serial Communication and LED Control
