@@ -1,7 +1,7 @@
 # Embeded-System-with-AVR-ATMEGA32
-h2 Get Started with ATMEGA32 Projects and Code Series
+##Get Started with ATMEGA32 Projects and Code Series
 ATMEGA32 Codes with INterfacing like Switch, relay, LCD.
-Codes Covered...
+## Codes Covered...
   1. Port Programming
   2. Single Bit Programming
   3. Switch Interface
