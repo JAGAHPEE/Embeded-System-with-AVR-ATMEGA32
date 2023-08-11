@@ -10,5 +10,5 @@ ATMEGA32 Codes with INterfacing like Switch, relay, LCD.
   6. Interrupts
   7. Timers
   8. Serial Communication
-Mini Projects
+## Mini Projects
   1. Black Line follower
